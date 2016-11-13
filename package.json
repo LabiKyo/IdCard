@@ -1,6 +1,6 @@
 {
   "name": "id-card",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "description": "身份证解析",
   "main": "idCard.js",
   "dependencies": {
